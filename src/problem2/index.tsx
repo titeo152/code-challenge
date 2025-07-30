@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import { Box, Button, TextField, Typography, Grid, MenuItem, Container } from '@mui/material'
+import { Box, Button, TextField, Typography, Grid, Container } from '@mui/material'
 import type { Currency } from './index.types'
-import { Icon } from '../components/Icon'
 import './style.css'
 import CustomSelect from '../components/CustomSelect'
 
